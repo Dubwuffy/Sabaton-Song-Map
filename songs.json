@@ -1,0 +1,28 @@
+{
+  "songs": [
+    {
+      "title": "Bismarck",
+      "album": "The Great War",
+      "event": "Battle of the Atlantic",
+      "latitude": 53.073635,
+      "longitude": -1.218872,
+      "youtube": "https://www.youtube.com/embed/oVWEb-At8yc"
+    },
+    {
+      "title": "Winged Hussars",
+      "album": "The Last Stand",
+      "event": "The Battle of Vienna (1683)",
+      "latitude": 48.2082,
+      "longitude": 16.3738,
+      "youtube": "https://www.youtube.com/embed/rcYhYO02f98?si=57iHFGEPqiLzsAuH"
+    },
+    {
+      "title": "The Red Baron",
+      "album": "The Great War",
+      "event": "Manfred von Richthofen (1916–1918)",
+      "latitude": 49.3988,
+      "longitude": 8.6724,
+      "youtube": "https://www.youtube.com/embed/6U2x0Pkhg9Q"
+    }
+  ]
+}
